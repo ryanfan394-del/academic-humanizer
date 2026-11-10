@@ -1,15 +1,14 @@
 {
   "name": "academic-humanizer",
   "description": "Academic Humanizer: clarity and voice editing for AI-assisted papers, theses, rebuttals, and grant proposals",
-  "owner": { "name": "ryanfan394-del" },
+  "owner": {
+    "name": "ryanfan394-del"
+  },
   "plugins": [
     {
       "name": "academic-humanizer",
       "source": "./",
-      "description": "Improve the clarity and voice of AI-assisted academic writing and funding proposals while preserving every number, result, and citation.",
-      "version": "0.3.3",
-      "license": "MIT",
-      "skills": ["./"]
+      "description": "Improve the clarity and voice of AI-assisted academic writing and funding proposals while preserving every number, result, and citation."
     }
   ]
 }

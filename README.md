@@ -69,11 +69,11 @@ example, an NIH Specific Aims page, and a funded NSF CAREER summary.
 ## Install
 
 ```bash
-git clone https://github.com/AIScientists-Dev/academic-humanizer ~/.claude/skills/academic-humanizer
+/plugin install academic-humanizer --marketplace ryanfan394-del/academic-humanizer
 ```
 
 It is a plain `SKILL.md` plus examples, so it also runs as a skill or system prompt for **Codex** and
-**MorphMind**. Point your agent at `SKILL.md`.
+**MorphMind**. Point your agent at `skills/academic-humanizer/SKILL.md`.
 
 ## Use
 
